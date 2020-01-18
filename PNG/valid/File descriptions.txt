@@ -1,16 +1,16 @@
-10 -	PNG 
+01 -	PNG 
 		Uncompressed 2D RGB 8bit
 		Linear colorspace
 		Unsigned Normalized
 		No interlacing
 		
-11 -	PNG 
+02 -	PNG 
 		Uncompressed 2D RGBA 8bit
 		sRGB colorspace
 		Unsigned Normalized
 		No interlacing
 
-12 - 	PNG
+03 - 	PNG
 		Uncompressed 2D RGB 8bit
 		Linear colorspace
 		Unsigned Normalized
