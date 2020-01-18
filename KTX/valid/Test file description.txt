@@ -1,0 +1,44 @@
+01 -    KTX
+		Uncompressed 2D RGBA 8bit
+		Linear colorspace
+		Unsigned Normalized
+		No mips
+		No array
+		No cubemap
+
+02 -    KTX
+		Uncompressed 2D RGBA 8bit
+		Linear colorspace
+		Unsigned Normalized
+		Colorized partial mipchain
+		No array
+		No cubemap
+
+03 -    KTX
+		Uncompressed 2D RGBA 8bit
+		Linear colorspace
+		Unsigned Normalized
+		No mips
+		Array of length 5
+		No cubemap
+
+04 -	KTX 
+		Uncompressed 2D RGBA 8bit
+		sRGB
+		Full colorized mip chain
+		Array of length 6
+		No cubemaps
+
+05 -	KTX 
+		Uncompressed 2D RGBA 8bit
+		sRGB
+		Full mip chain
+		Array of length 6
+		No cubemaps
+
+06 -	KTX 
+		BC7 RGBA compressed 2D
+		Linear colorspace
+		No mips
+		No arrays
+		No cubemaps
