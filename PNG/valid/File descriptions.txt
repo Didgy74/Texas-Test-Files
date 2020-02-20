@@ -16,3 +16,10 @@
 		Unsigned Normalized
 		Indexed color
 		No interlacing
+
+03 - 	KTX
+		Uncompressed 2D Grayscale with alpha 8bit
+		Linear colorspace
+		Unsigned Normalized
+		Indexed color
+		No interlacing

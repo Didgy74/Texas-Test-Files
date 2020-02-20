@@ -42,3 +42,10 @@
 		No mips
 		No arrays
 		No cubemaps
+
+07 -	KTX 
+		Uncompressed R 8-bit 2D
+		Linear colorspace
+		No mips
+		No arrays
+		No cubemaps
